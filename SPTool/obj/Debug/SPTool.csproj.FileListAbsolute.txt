@@ -1,0 +1,476 @@
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\bin\Debug\SPTool.exe
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\bin\Debug\SPTool.pdb
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\obj\Debug\SPTool.Form1.resources
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\obj\Debug\SPTool.exe
+C:\Users\Daniel Xu\Documents\Visual Studio 2013\Projects\SPTool\SPTool\obj\Debug\SPTool.pdb
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\obj\Debug\SPTool.exe
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\obj\Debug\SPTool.pdb
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\bin\Debug\SPTool.exe
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\bin\Debug\SPTool.pdb
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\obj\Debug\SPTool.Form1.resources
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+C:\Users\Daniel Xu\Desktop\SPTool\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+E:\工作资料\壳牌\华北\SPTool\SPTool\bin\Debug\SPTool.exe
+E:\工作资料\壳牌\华北\SPTool\SPTool\bin\Debug\SPTool.pdb
+E:\工作资料\壳牌\华北\SPTool\SPTool\bin\Debug\DBUtility.dll
+E:\工作资料\壳牌\华北\SPTool\SPTool\bin\Debug\DBUtility.pdb
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.csprojResolveAssemblyReference.cache
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.Form1.resources
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.HelpForm.resources
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.exe
+E:\工作资料\壳牌\华北\SPTool\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.exe.config
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool\obj\Debug\SPTool.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SPTool.exe
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\C5.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\Common.Logging.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\DBUtility.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\Newtonsoft.Json.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\Quartz.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SOTool.BLL.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SPTool.DAL.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SPTool.Model.dll
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\System.Data.SQLite.DLL
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\DBUtility.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SOTool.BLL.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SPTool.DAL.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SPTool.Model.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\Newtonsoft.Json.xml
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\Quartz.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\Quartz.xml
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.csprojResolveAssemblyReference.cache
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.Form1.resources
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.HelpForm.resources
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.exe
+G:\20191227\DataPost - 副本\SPTool\obj\Debug\SPTool.pdb
+G:\20191227\DataPost - 副本\SPTool\bin\Debug\SPTool.pdb
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.Form1.resources
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.HelpForm.resources
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.exe
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.exe
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\C5.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\Common.Logging.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\DBUtility.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\Newtonsoft.Json.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\Quartz.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SOTool.BLL.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.DAL.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.Model.dll
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\System.Data.SQLite.DLL
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\DBUtility.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SOTool.BLL.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.DAL.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.Model.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\Newtonsoft.Json.xml
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\Quartz.pdb
+E:\20191227\DataPost2019122901\SPTool\bin\Debug\Quartz.xml
+E:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.exe
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.exe
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\C5.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\Common.Logging.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\DBUtility.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\Newtonsoft.Json.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\Quartz.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SOTool.BLL.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.DAL.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.Model.dll
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\System.Data.SQLite.DLL
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\DBUtility.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SOTool.BLL.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.DAL.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\SPTool.Model.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\Newtonsoft.Json.xml
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\Quartz.pdb
+H:\20191227\DataPost2019122901\SPTool\bin\Debug\Quartz.xml
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.csprojResolveAssemblyReference.cache
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.Form1.resources
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.HelpForm.resources
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+H:\20191227\DataPost2019122901\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.exe
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SPTool.exe
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SPTool.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\C5.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\Common.Logging.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\DBUtility.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\Newtonsoft.Json.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\Quartz.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SOTool.BLL.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SPTool.DAL.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SPTool.Model.dll
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\System.Data.SQLite.DLL
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\DBUtility.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SOTool.BLL.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SPTool.DAL.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\SPTool.Model.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\Newtonsoft.Json.xml
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\Quartz.pdb
+H:\20191227\DataPost2019122901 - 副本\SPTool\bin\Debug\Quartz.xml
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.csprojResolveAssemblyReference.cache
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.Form1.resources
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.HelpForm.resources
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+H:\20191227\DataPost2019122901 - 副本\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\C5.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+G:\20191227\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojResolveAssemblyReference.cache
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.Cache
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+G:\20191227\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\RabbitMQ.Client.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\bin\Debug\RabbitMQ.Client.xml
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\C5.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+C:\Users\15573\Desktop\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\C5.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.PassWordInput.resources
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\C5.dll
+D:\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+D:\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+D:\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+D:\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+D:\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+D:\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+D:\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.PassWordInput.resources
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CoreCompileInputs.cache
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+D:\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.PassWordInput.resources
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.config
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.exe
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\C5.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Common.Logging.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Quartz.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\System.Data.SQLite.DLL
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Macrosage.RabbitMQ.Server.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SOTool.BLL.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.DAL.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Newtonsoft.Json.xml
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Quartz.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\Quartz.xml
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csprojAssemblyReference.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.Form1.resources
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.HelpForm.resources
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.PassWordInput.resources
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.Properties.Resources.resources
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.GenerateResource.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.csproj.CopyComplete
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.exe
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.exe.manifest
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\bin\Debug\SPTool.application
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.TrustInfo.xml
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.exe.manifest
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\obj\Debug\SPTool.application

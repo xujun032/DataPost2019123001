@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SynchHistoryData</id>
+    <version>1.0.0</version>
+    <authors>SynchHistoryData</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="EasyNetQ" version="3.7.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting.Systemd" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting.WindowsServices" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" version="1.9.5" exclude="Build,Analyzers" />
+        <dependency id="SqlSugarCore" version="5.0.0.11" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SynchHistoryData\bin\Debug\netcoreapp3.0\SynchHistoryData.runtimeconfig.json" target="lib\netcoreapp3.0\SynchHistoryData.runtimeconfig.json" />
+    <file src="D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SynchHistoryData\bin\Debug\netcoreapp3.0\SynchHistoryData.dll" target="lib\netcoreapp3.0\SynchHistoryData.dll" />
+    <file src="D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SynchHistoryData\appsettings.json" target="content\appsettings.json" />
+    <file src="D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SynchHistoryData\appsettings.json" target="contentFiles\any\netcoreapp3.0\appsettings.json" />
+  </files>
+</package>

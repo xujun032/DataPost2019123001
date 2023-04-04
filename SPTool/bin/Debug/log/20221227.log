@@ -1,0 +1,62 @@
+2022-12-27 14:59:37:7048 .........  错误：未将对象引用设置到对象的实例。
+2022-12-27 14:59:38:0628 .........  错误：获取数据库路径失败!       “DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 14:59:40:3567 .........  ===============政府追溯模式==============
+2022-12-27 14:59:42:5229 .........  开始执行油罐液位仪上送定时任务
+2022-12-27 14:59:42:6017 .........  开始执行油站进油上送定时任务
+2022-12-27 14:59:43:2759 .........  开始执行实时销售数据上送定时任务
+2022-12-27 14:59:43:3656 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.TankDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\TankDataJob.cs:行号 32
+2022-12-27 14:59:43:3836 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasPurchaseInfoJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasPurchaseInfoJob.cs:行号 40
+2022-12-27 14:59:43:5003 .........  液位仪数据上送错误：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 14:59:43:5840 .........  错误：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 14:59:43:6269 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 14:59:43:7785 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:00:01:6088 .........  开始执行油罐配置变更定时任务
+2022-12-27 15:00:01:6108 .........  开始执行油枪配置变更定时任务
+2022-12-27 15:01:42:4891 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:01:42:4919 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:01:42:4929 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:03:42:5024 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:03:42:5044 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:03:42:5054 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:05:42:4997 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:05:42:5025 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:05:42:5035 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:07:42:4927 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:07:42:4957 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:07:42:4957 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:09:42:4944 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:09:42:4972 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:09:42:4979 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:11:42:4996 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:11:42:5017 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:11:42:5026 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:13:42:4853 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:13:42:4883 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:13:42:4893 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:15:42:4993 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:15:42:5020 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:15:42:5030 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:17:42:4947 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:17:42:4967 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:17:42:4977 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:19:42:4937 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:19:42:4997 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:19:42:5007 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。
+2022-12-27 15:20:01:6022 .........  开始执行油枪配置变更定时任务
+2022-12-27 15:21:42:5023 .........  开始执行实时销售数据上送定时任务
+2022-12-27 15:21:42:5053 .........  错误：   在 DBUtility.DbHelperODBC.Query(String SQLString)
+   在 SPTool.GasSaleDataJob.Execute(IJobExecutionContext context) 位置 D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool\Class\GasSaleDataJob.cs:行号 45
+2022-12-27 15:21:42:5063 .........  实时销售数据上送失败：“DBUtility.DbHelperODBC”的类型初始值设定项引发异常。

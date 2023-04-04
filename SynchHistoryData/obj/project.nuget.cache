@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMACddvAfdXX/A6FAMtcrCGf7Qol8dG24vHd93gpgAcvq+fnWHbJPXZubi4lD4A+fd5ghmZ6xjeSF7/FRycnNA==",
+  "success": false,
+  "projectFilePath": "D:\\工作资料\\壳牌\\山东河北\\最终版本\\DataPost2019123001\\SynchHistoryData\\SynchHistoryData.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "Microsoft.Extensions.Hosting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "SqlSugarCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "Microsoft.Extensions.Hosting.Systemd"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "EasyNetQ"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "Microsoft.Extensions.Hosting.WindowsServices"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ.Server\bin\Release\Macrosage.RabbitMQ.Server.dll
+C:\Users\Administrator\Downloads\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ.Server\bin\Release\Macrosage.RabbitMQ.Server.pdb
+C:\Users\Administrator\Downloads\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ.Server\bin\Release\RabbitMQ.Client.dll
+C:\Users\Administrator\Downloads\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ.Server\obj\Release\Macrosage.RabbitMQ.Server.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ.Server\obj\Release\Macrosage.RabbitMQ.Server.dll
+C:\Users\Administrator\Downloads\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ-master\Macrosage.RabbitMQ.Server\obj\Release\Macrosage.RabbitMQ.Server.pdb

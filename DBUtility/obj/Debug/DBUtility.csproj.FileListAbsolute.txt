@@ -1,0 +1,82 @@
+D:\工作资料\壳牌\华北\DataPost\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost\DBUtility\obj\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost - 副本\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\DBUtility\obj\Debug\DBUtility.pdb
+G:\20191227\DataPost - 副本\DBUtility\bin\Debug\DBUtility.dll
+G:\20191227\DataPost - 副本\DBUtility\bin\Debug\DBUtility.pdb
+G:\20191227\DataPost - 副本\DBUtility\obj\Debug\DBUtility.dll
+G:\20191227\DataPost - 副本\DBUtility\obj\Debug\DBUtility.pdb
+E:\20191227\DataPost2019122901\DBUtility\bin\Debug\DBUtility.dll
+E:\20191227\DataPost2019122901\DBUtility\bin\Debug\DBUtility.pdb
+E:\20191227\DataPost2019122901\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+E:\20191227\DataPost2019122901\DBUtility\obj\Debug\DBUtility.dll
+E:\20191227\DataPost2019122901\DBUtility\obj\Debug\DBUtility.pdb
+E:\20191227\DataPost2019122901\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost2019122901\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost2019122901\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\DBUtility\obj\Debug\DBUtility.pdb
+G:\20191227\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+G:\20191227\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+G:\20191227\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+G:\20191227\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+G:\20191227\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+C:\Users\15573\Desktop\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\15573\Desktop\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\15573\Desktop\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+C:\Users\15573\Desktop\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\15573\Desktop\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\15573\Desktop\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+D:\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+D:\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+D:\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+D:\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\bin\Debug\DBUtility.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\bin\Debug\DBUtility.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\DBUtility\obj\Debug\DBUtility.pdb

@@ -1,0 +1,3 @@
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\ConsumerWorkerService\obj\Debug\netcoreapp3.1\ConsumerWorkerService.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\ConsumerWorkerService\obj\Debug\netcoreapp3.1\ConsumerWorkerService.AssemblyInfoInputs.cache
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\ConsumerWorkerService\obj\Debug\netcoreapp3.1\ConsumerWorkerService.AssemblyInfo.cs

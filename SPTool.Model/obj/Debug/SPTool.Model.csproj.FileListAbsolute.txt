@@ -1,0 +1,68 @@
+D:\工作资料\壳牌\华北\DataPost\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost - 副本\SPTool.Model\obj\Debug\SPTool.Model.pdb
+G:\20191227\DataPost - 副本\SPTool.Model\bin\Debug\SPTool.Model.dll
+G:\20191227\DataPost - 副本\SPTool.Model\bin\Debug\SPTool.Model.pdb
+G:\20191227\DataPost - 副本\SPTool.Model\obj\Debug\SPTool.Model.dll
+G:\20191227\DataPost - 副本\SPTool.Model\obj\Debug\SPTool.Model.pdb
+G:\20191227\DataPost - 副本\SPTool.Model\obj\Debug\SPTool.Model.csprojResolveAssemblyReference.cache
+E:\20191227\DataPost2019122901\SPTool.Model\bin\Debug\SPTool.Model.dll
+E:\20191227\DataPost2019122901\SPTool.Model\bin\Debug\SPTool.Model.pdb
+E:\20191227\DataPost2019122901\SPTool.Model\obj\Debug\SPTool.Model.dll
+E:\20191227\DataPost2019122901\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019122901\SPTool.Model\obj\Debug\SPTool.Model.pdb
+G:\20191227\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+G:\20191227\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+G:\20191227\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+G:\20191227\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\DataPost2019123001\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csprojAssemblyReference.cache
+C:\Users\15573\Desktop\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+C:\Users\15573\Desktop\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+C:\Users\15573\Desktop\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+C:\Users\Administrator\Desktop\DataPost20200906\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csprojAssemblyReference.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最新\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csprojAssemblyReference.cache
+D:\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csproj.CoreCompileInputs.cache
+D:\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\华北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csprojAssemblyReference.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool.Model\bin\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csproj.CoreCompileInputs.cache
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.dll
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.pdb
+D:\工作资料\壳牌\山东河北\最终版本\DataPost2019123001\SPTool.Model\obj\Debug\SPTool.Model.csprojAssemblyReference.cache

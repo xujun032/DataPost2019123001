@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SynchHistoryData": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+update SiteInfo set SysNo='0004'
