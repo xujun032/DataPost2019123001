@@ -123,7 +123,7 @@ namespace ConsumerWorkerService.MessageManage.Model
         /// </summary>
         public System.String CUST_MAGKEY { get { return this._CUST_MAGKEY; } set { this._CUST_MAGKEY = value; } }
 
-        private System.String? _ISVIP;
+        private System.String _ISVIP;
         /// <summary>
         /// 是否会员
         /// </summary>
